@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/alijafari_gd)
-
+  
+![X (formerly Twitter) Follow]( https://img.shields.io/twitter/follow/alijafari_gd )
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alijafari_gd)
 
 
 
