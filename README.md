@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-![X](https://img.shields.io/twitter/follow/:alijafari_gd)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/alijafari_gd)
+
 
 
 
