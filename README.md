@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AJ</h1>
-<h3 align="center">A passionate full-stack Android dev.</h3>
+<h3 align="center">Yet Another Android Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alijafari-gd&label=Profile%20views&color=0e75b6&style=flat" alt="alijafari-gd" /> </p>
 
