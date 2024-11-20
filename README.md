@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alijafari-gd" alt="alijafari-gd" /></a> </p>
 
-- 🔭 I’m currently working as [AJ Studio™](github.com/theAJStudio)
+- 🔭 I’m currently working on [Wakee](https://github.com/alijafari-gd/Wakee)
 
 - 🌱 I’m currently learning **Jetpack compose**
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-![X (formerly Twitter) Follow]( https://img.shields.io/twitter/follow/alijafari_gd )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/alijafari_gd)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white)](https://t.me/alijafari_gd)
 
